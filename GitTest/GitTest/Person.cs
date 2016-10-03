@@ -8,7 +8,7 @@ namespace GitTest
 {
     class Person
     {
-        public string FirstName { get; set; }
+        public string FirstName2 { get; set; }
         public string LastName { get; set; }
         public string Address { get; set; }
     }
